@@ -47,8 +47,6 @@ export default function Dashboard() {
             UPGRADE
           </button>
         </div>
-
-
         </aside>
 
         <main className="flex-1 bg-[#F8F9FD] p-12">
